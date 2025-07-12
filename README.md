@@ -18,13 +18,14 @@ This project leverages Computer Vision and Deep Learning to automatically detect
 - To **classify and highlight** accident-prone or anomalous traffic conditions.
 - To build a **deployed and interactive web system** for real-time traffic monitoring.
 
-![APP4](https://github.com/user-attachments/assets/b94e4a78-6864-487b-a908-93031dca6f4e)
-
 ###  Web & Backend
 - **Python 3.10+**
 - **Flask 3.1**
+##  Demo
 
+**Upload a traffic video to instantly detect congestion levels and identify possible accidents using our AI-powered system.**
 ![APP6](https://github.com/user-attachments/assets/b8a4743f-a48f-4c36-a147-f8de87fe9d8a)
+**Predicted congestion level and accident status based on real-time AI analysis of the uploaded traffic footage.**
 ![APP7](https://github.com/user-attachments/assets/93941446-1a3a-4ff6-8bc9-8e5576a82bdf)
 ## Model Summary
 
